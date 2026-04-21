@@ -15,8 +15,7 @@ The dashboards provide insights into:
 The goal is to identify **conversion drop-offs, regional inefficiencies, and engagement gaps**, enabling data-driven decisions to improve hiring outcomes and recruiter productivity.
 
 
-![Recruitment Funnel Dashboard](Global-Talent-Analytics-Dashboard
-/linked in dashboard.jpg)
+![Recruitment Funnel Dashboard](linked in dashboard.jpg)
 
 ---
 
